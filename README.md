@@ -1,2 +1,2 @@
 # College-Main-Project
-Online Student Management System
+Student Management System
